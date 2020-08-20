@@ -1,0 +1,10 @@
+A:\Files\Coding\jogoDaVelhaArthur\jogoDaVelhaArthur\bin\Debug\jogoDaVelhaArthur.exe.config
+A:\Files\Coding\jogoDaVelhaArthur\jogoDaVelhaArthur\bin\Debug\jogoDaVelhaArthur.exe
+A:\Files\Coding\jogoDaVelhaArthur\jogoDaVelhaArthur\bin\Debug\jogoDaVelhaArthur.pdb
+A:\Files\Coding\jogoDaVelhaArthur\jogoDaVelhaArthur\obj\Debug\jogoDaVelhaArthur.csprojAssemblyReference.cache
+A:\Files\Coding\jogoDaVelhaArthur\jogoDaVelhaArthur\obj\Debug\jogoDaVelhaArthur.Form1.resources
+A:\Files\Coding\jogoDaVelhaArthur\jogoDaVelhaArthur\obj\Debug\jogoDaVelhaArthur.Properties.Resources.resources
+A:\Files\Coding\jogoDaVelhaArthur\jogoDaVelhaArthur\obj\Debug\jogoDaVelhaArthur.csproj.GenerateResource.cache
+A:\Files\Coding\jogoDaVelhaArthur\jogoDaVelhaArthur\obj\Debug\jogoDaVelhaArthur.csproj.CoreCompileInputs.cache
+A:\Files\Coding\jogoDaVelhaArthur\jogoDaVelhaArthur\obj\Debug\jogoDaVelhaArthur.exe
+A:\Files\Coding\jogoDaVelhaArthur\jogoDaVelhaArthur\obj\Debug\jogoDaVelhaArthur.pdb
